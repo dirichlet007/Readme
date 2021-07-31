@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dirichlet007
-- 👀 I’m interested in ...
+- 👀 I’m interested in Python Photoshop and MATLAB
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ：1508022928@qq.com
 
 <!---
 dirichlet007/dirichlet007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
