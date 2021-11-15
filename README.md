@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dirichlet007
-- 👀 I’m interested in Python Photoshop and MATLAB
+- 👀 I’m interested in Python and JAVA
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ：1508022928@qq.com
 
